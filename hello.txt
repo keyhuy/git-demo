@@ -1,6 +1,7 @@
 public class HelloWord {
 	public static void main(String[] args) {
 		System.out.println("git测试_HelloWord!");
-		System.out.println("git分支测试...")
+		System.out.println("git分支测试...");
+		System.out.println("推送到GitHub测试...再拉取到本地...");
 	} 
 }
